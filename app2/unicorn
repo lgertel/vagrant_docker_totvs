@@ -1,0 +1,3 @@
+check process unicorn with pidfile "/data/app2/tmp/pids/unicorn.pid"
+  start program = "/opt/monit/unicorn/up.sh"
+  stop  program = "/opt/monit/unicorn/down.sh"

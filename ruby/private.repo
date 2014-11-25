@@ -1,0 +1,5 @@
+[private]
+name=private repo
+baseurl=http://hnakamur.github.io/centos7-my-repo/RPMS/$basearch/
+gpgcheck=0
+enabled=1
